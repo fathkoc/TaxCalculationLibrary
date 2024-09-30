@@ -1,0 +1,22 @@
+{
+    "name": "fathkoc/tax-calculation-library",
+    "description": "A comprehensive library to fetch financial data from TCMB, including exchange rates and interest rates.",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "TaxCalculationLibrary\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "fatih Koç",
+            "email": "fathkccc@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
